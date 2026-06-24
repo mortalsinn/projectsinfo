@@ -1,0 +1,14 @@
+{
+  "locale": ["en"],
+  "service": "PROJECTS",
+  "storage": true,
+  "modules": {
+    "widgets": [
+      {
+        "location": "zoho.projects.project.detail.tab",
+        "name": "Job Info",
+        "url": "/index.html"
+      }
+    ]
+  }
+}
